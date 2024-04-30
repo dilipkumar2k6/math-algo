@@ -14,6 +14,13 @@ https://www.youtube.com/watch?v=eKp56OLhoQs
 - Iterate each number from prime list
     - if prime[i] is prime then all multiples of prime[i] can't be prime
 - Count rest of prime number
+## Find GCD of two numbers?
+
+## Find LCM of two numbers?
+```
+a * b = LCM(a,b) * GCD(a,b)
+```
+
 ## How to store line slope in hash?
 - Do not use y2-y1/x2-x1 as hash key
 - main reason is fraction doesn't maintian accuracy 
